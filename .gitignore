@@ -1,0 +1,10 @@
+node_modules
+scss
+footer.php
+index.php
+header.php
+menu.php
+package-lock.json
+package.json
+postcss.config.js
+./style.css
